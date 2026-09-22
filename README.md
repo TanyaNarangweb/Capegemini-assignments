@@ -1,30 +1,40 @@
-# Assignments
+# 🤖 Artificial Intelligence & Machine Learning — CETPA × Capgemini
+## 📚 Assignments
 
-This repository contains a collection of data science, machine learning, and NLP assignments completed as part of the program. Each notebook focuses on a different task, from text preprocessing and classification to semantic search and emotion analysis.
+A hands-on collection of **Data Science, Machine Learning, and NLP assignments** completed as part of the program.  
+This repository demonstrates practical skills across the complete data workflow — from **text preprocessing and classification to machine learning and NLP-based analysis**. 🚀
 
-## Repository overview
-The projects in this repository include:
+---
 
+## 📌 Repository Overview
 
-- **Custom Chatbot:** a semantic FAQ-based chatbot using sentence embeddings
-- **Emotion Detection:** text-based emotion classification using NLP techniques
-- **Keyword Extraction:** extracting important words and phrases from text
-- **Model Evaluation for Text (TF-IDF Vectorizer):** comparing model performance using TF-IDF features
-- **Spam Classifier (CountVectorizer + Naive Bayes):** building a spam detection model
-- **Restaurant Sales:** exploratory data analysis and sales insights
-- **Text Extraction using Regex:** extracting structured information from text using regular expressions
+This repository contains a series of practical projects designed to build and demonstrate core concepts in **Data Science, Machine Learning, and Natural Language Processing (NLP)**.
 
-## Project structure
+### 🔍 What's Inside?
+
+- 📝 **Custom Chatbot** — Build a semantic FAQ-based chatbot using sentence embeddings.
+- 📊 **Emotion Detection** — Perform emotion classification using NLP techniques.
+- 🔎 **Keyword Extraction** — Extract important keywords and phrases from text.
+- 🤖 **Model Evaluation** — Compare machine learning models using TF-IDF features.
+- 🛡️ **Spam Classification** — Detect spam messages using classification algorithms.
+- 📈 **Restaurant Sales Analysis** — Explore sales data and generate meaningful insights.
+- 🔤 **Text Extraction** — Extract structured information from text using Regular Expressions.
+
+---
+
+## 🗂️ Project Structure
 
 ```text
-├── Custom_Chatbot.ipynb
-├── Emotion_Detection_(1).ipynb
-├── Keyword_Extraction.ipynb
-├── Model_Evaluation_for_Text.ipynb
-├── Spam_Classifier.ipynb
-├── Restaurant_Sales.ipynb
-├── Text_Extraction_using_Regex.ipynb
-└── README.md
+📦 Assignments
+│
+├── 🤖 Custom_Chatbot.ipynb
+├── 😊 Emotion_Detection.ipynb
+├── 🔑 Keyword_Extraction.ipynb
+├── 📊 Model_Evaluation_for_Text.ipynb
+├── 🛡️ Spam_Classification.ipynb
+├── 🍽️ Restaurant_Sales_Analysis.ipynb
+├── 🔤 Text_Extraction_using_Regex.ipynb
+└── 📄 README.md
 ```
 
 ## Tech stack
@@ -91,6 +101,6 @@ jupyter notebook
 - Some notebooks may require additional dataset downloads or model initialization on first run.
 - The repository is intended for learning and experimentation in NLP and machine learning.
 
-## Author
+## 👩‍💻 Author
 
-Created by [Tanya Narang](https://github.com/TanyaNarangweb).
+[Tanya Narang](https://github.com/TanyaNarangweb)
