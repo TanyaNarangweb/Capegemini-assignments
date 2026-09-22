@@ -95,11 +95,15 @@ jupyter notebook
 
 5. Run the notebook you want to explore.
 
-## Notes
+## 📝 Notes
 
-- Each notebook is a standalone assignment and can be run independently.
-- Some notebooks may require additional dataset downloads or model initialization on first run.
-- The repository is intended for learning and experimentation in NLP and machine learning.
+> 💡 **A few things to keep in mind while exploring this repository:**
+
+📓 **Independent Notebooks** — Each notebook is a standalone assignment and can be executed independently.
+
+📦 **Additional Resources** — Some notebooks may require downloading datasets, installing extra packages, or initializing pre-trained models during the first run.
+
+🧪 **Learning & Experimentation** — This repository is created for hands-on learning, experimentation, and practical implementation of **NLP, Machine Learning, and Data Science concepts**.
 
 ## 👩‍💻 Author
 
